@@ -26,16 +26,16 @@ This project was developed using the **Give Me Some Credit (Kaggle)** dataset as
 - **Experimentation**: Jupyter Notebook  
 
 ---
-# 1. Clone the repo
+# Clone the repo
 git clone https://github.com/<your-username>/Financial-Default-Predictor.git
 cd Financial-Default-Predictor
 
-# 2. Create environment (conda or pip)
+# Create environment (conda or pip)
 conda env create -f environment.yml
 conda activate financial-default
 
-# 3. Download models (this will pull from Google Drive)
+# Download models (this will pull from Google Drive)
 python download_models.py
 
-# 4. Run the app
+# Run the app
 streamlit run app/app.py

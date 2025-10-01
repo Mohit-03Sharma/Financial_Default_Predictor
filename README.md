@@ -4,7 +4,7 @@ An end-to-end **Machine Learning + Streamlit** project that predicts:
 - Whether an individual is likely to **default on a loan**
 - Their **estimated credit score**
 
-This project was developed using the **Give Me Some Credit (Kaggle)** dataset as part of my **B.Tech Final Year Project (2025, UIET MDU Rohtak)**.
+This project was developed using the **Give Me Some Credit (Kaggle)** dataset as part of our **B.Tech Final Year Project (2025, UIET MDU Rohtak)**.
 
 ---
 
